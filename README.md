@@ -9,7 +9,7 @@ Features
 --------
 - Input any number of integers (minimum 2)
 
--Supports the following operations:
+- Supports the following operations:
 1. Addition
 2. Subtraction
 3. Multiplication
