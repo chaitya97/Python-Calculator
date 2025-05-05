@@ -1,7 +1,4 @@
-# Python-Programs
-
-1. Calculator:
-
+# Python-Calculator
 A simple command-line calculator built using Python classes, allowing users to perform basic arithmetic operations (Addition, Subtraction, Multiplication, Division) on multiple numbers.
 
 --------
